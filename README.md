@@ -1,6 +1,6 @@
 This repo is intended to serve charts for the [multiclusterhub-operator installer](https://github.com/open-cluster-management/multiclusterhub-operator)
 
-## Updating Charts
+## Updating Charts 
 
 To incorporate new chart changes into this repo:
 1. Update the bottom of this README with the current time and open a PR on a new branch. New chart changes will be automatically pulled during the resulting Travis build.
